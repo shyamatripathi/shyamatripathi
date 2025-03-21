@@ -1,10 +1,13 @@
-- 👋 Hi, I’m @shyamatripathi
-- 👀 I’m interested in space sciences
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on the things which really make sense
-- 📫 How to reach me on twitter smith_lorren
+👩‍💻 This is Shyama Tripathi
 
-<!---
-shyamatr
-You can click the Preview link to take a look at your changes.
---->
+👋 I’m a Python Developer passionate about data science, AI, and software development.
+
+🚀 I have experience in machine learning, natural language processing (NLP), and text classification.
+
+💻 I specialize in Python development, working on backend systems, automation, and AI-driven applications.
+
+🌱 Currently, I’m exploring scalable architectures, API development, and data-driven solutions.
+
+💡 I’m open to collaborations on real-world AI/ML and software development projects that drive meaningful impact.
+
+📩 Reach out to me at: shyamatripathi101@gmail.com
