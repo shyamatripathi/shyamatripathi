@@ -6,12 +6,13 @@
 
 ---
 
-💻 **Python Developer | Machine Learning Enthusiast**  
-🚀 Building with **Django, FastAPI, and AI-powered solutions**
+💻 **Python Developer | Machine Learning & Data Enthusiast**  
+🚀 Passionate about **AI-driven web applications, automation, and backend systems**  
+🌱 Currently exploring **Generative AI** and **Data Analytics**
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠️ Tech Stack
 
 ### 💻 Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -20,38 +21,37 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🖥️ Frameworks & Libraries  
+### ⚙️ Frameworks & Libraries  
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![TextBlob](https://img.shields.io/badge/TextBlob-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![FPDF](https://img.shields.io/badge/FPDF-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyPDF](https://img.shields.io/badge/PyPDF-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+![TextBlob](https://img.shields.io/badge/TextBlob-FF6F00?style=for-the-badge&logo=python&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![GenAI](https://img.shields.io/badge/Generative%20AI-7A57D1?style=for-the-badge&logo=openai&logoColor=white)
 
-### ⚙️ Tools & Platforms  
+### 🧰 Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 ![Virtualenv](https://img.shields.io/badge/Virtualenv-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
 ### 🗄️ Databases  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🌐 What I Work On  
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
+### 💡 Areas of Interest  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
 ![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4285F4?style=for-the-badge)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
 ![Backend Development](https://img.shields.io/badge/Backend%20Development-181717?style=for-the-badge)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2E86C1?style=for-the-badge)
 
 ---
 
@@ -60,14 +60,25 @@
 ![Shyama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamatripathi&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamatripathi&layout=compact&theme=radical)  
 
+---
+
+## 🪄 Badges & Achievements  
+
+<table>
+<tr>
+<td>
+  
 [![An image of @shyamatripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shyamatripathi)](https://holopin.io/@shyamatripathi)
 
+</td>
+<td>
+
+<img src="https://raw.githubusercontent.com/shyamatripathi/shyamatripathi/main/lvl0-alien.webp" alt="Hacktoberfest 2025: Level 0 Registered" width="250"/>  
+<p><em>Proud participant of Hacktoberfest 2025 🎉</em></p>
+
+</td>
+</tr>
+</table>
+
 ---
 
-## 🏆 Hacktoberfest 2025 Badge  
-
-![Hacktoberfest 2025: Level 0 Registered](https://raw.githubusercontent.com/shyamatripathi/shyamatripathi/main/126a5c8f-90b3-4c98-bdd3-e211756d94b4.png)  
-
-*Proud participant of Hacktoberfest 2025 🎉*
-
----
