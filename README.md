@@ -1,84 +1,127 @@
-# 👋 Hey there, I'm Shyama Tripathi  
+# 👋 Hi, I'm Shyama Tripathi  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shyama-tripathi-227611250/)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/shyamatripathi)
-[![Gmail](https://img.shields.io/badge/Email-shyamatripathi101@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamatripathi101@gmail.com)
-
----
-
-💻 **Python Developer | Machine Learning & Data Enthusiast**  
-🚀 Passionate about **AI-driven web applications, automation, and backend systems**  
-🌱 Currently exploring **Generative AI** and **Data Analytics**
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/shyama-tripathi-227611250/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](mailto:shyamatripathi101@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=google-chrome)]()
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Backend Developer | Python • APIs • Scalable Systems  
 
-### 💻 Languages  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+✨ **Crafting robust backend architectures using Python, FastAPI, Flask, and Django**  
+⚙️ Passionate about **distributed systems**, **asynchronous APIs**, and **microservice orchestration**  
 
-### ⚙️ Frameworks & Libraries  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![TextBlob](https://img.shields.io/badge/TextBlob-FF6F00?style=for-the-badge&logo=python&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![GenAI](https://img.shields.io/badge/Generative%20AI-7A57D1?style=for-the-badge&logo=openai&logoColor=white)
+---
 
-### 🧰 Tools & Platforms  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Virtualenv](https://img.shields.io/badge/Virtualenv-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+## 🛠️ Tech Stack  
 
-### 🗄️ Databases  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### 🐍 **Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?logo=django&logoColor=white)
 
-### 💡 Areas of Interest  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-FF6F00?style=for-the-badge)
-![Web Scraping](https://img.shields.io/badge/Web%20Scraping-4285F4?style=for-the-badge)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge)
-![Backend Development](https://img.shields.io/badge/Backend%20Development-181717?style=for-the-badge)
-![Data Analytics](https://img.shields.io/badge/Data%20Analytics-2E86C1?style=for-the-badge)
+### 🗄️ **Databases & Messaging**
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy)
+
+### ☁️ **Tools & Infrastructure**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
+
+### 🚀 **What I Build**
+![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B)
+![Microservices](https://img.shields.io/badge/-Microservices-1890D1)
+![Async Systems](https://img.shields.io/badge/-Async%20Systems-7A57D1)
+![Streaming Pipelines](https://img.shields.io/badge/-Streaming%20Pipelines-FF9800)
+![ML Systems](https://img.shields.io/badge/-ML%20Systems-102230)
+
+---
+
+## 🌟 Featured Projects  
+
+### 🧩 [Image-Generator-API](https://github.com/shyamatripathi/Image-Generator-API)  
+**FastAPI microservice for AI image generation**  
+`FastAPI` `Async` `Stable Diffusion` `Docker`  
+→ Handles 50+ concurrent image requests asynchronously  
+→ Includes validation, rate limiting, monitoring  
+
+---
+
+### 💳 [Credit Predictor](https://github.com/shyamatripathi/Credit_Predictor)  
+**Django app with machine learning integration**  
+`Django` `Scikit-learn` `PostgreSQL`  
+→ Predictive analytics + automated PDF report generation  
+→ RESTful architecture with production-grade structure  
+
+---
+
+### 🤖 [Tel-Bot](https://github.com/shyamatripathi/Tel-Bot)  
+**Task automation bot with Django & Redis**  
+`Django REST` `Celery` `Redis`  
+→ Background job handling + JWT authentication  
+→ Modular API design and async task pipelines  
+
+---
+
+### ⚖️ [LegalBot](https://github.com/shyamatripathi/LegalBot)  
+**AI legal assistant with semantic search**  
+`FastAPI` `NLP` `Sentence Transformers` `FAISS`  
+→ Semantic similarity for legal text queries  
+→ Optimized vector indexing for faster retrieval  
+
+---
+
+## 🏆 Highlights  
+
+<div align="center">
+  
+[![Holopin Badges](https://holopin.me/shyamatripathi)](https://holopin.io/@shyamatripathi)  
+  
+<img src="https://github.com/shyamatripathi/shyamatripathi/blob/main/assets/hacktoberfest-2025.png" alt="Hacktoberfest 2025 Badge" width="180" height="auto" />
+  
+</div>
 
 ---
 
 ## 📊 GitHub Stats  
 
-![Shyama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamatripathi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamatripathi&layout=compact&theme=radical)  
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=shyamatripathi&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true)  
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamatripathi&layout=compact&theme=tokyonight&hide_border=true)  
+![Streak](https://streak-stats.demolab.com?user=shyamatripathi&theme=tokyonight&hide_border=true)
+
+</div>
 
 ---
 
-## 🪄 Badges & Achievements  
+## 🎯 Current Focus  
 
-<table>
-<tr>
-<td>
-  
-[![An image of @shyamatripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shyamatripathi)](https://holopin.io/@shyamatripathi)
-
-</td>
-<td>
-
-<img src="https://raw.githubusercontent.com/shyamatripathi/shyamatripathi/main/lvl0-alien.webp" alt="Hacktoberfest 2025: Level 0 Registered" width="250"/>  
-<p><em>Proud participant of Hacktoberfest 2025 🎉</em></p>
-
-</td>
-</tr>
-</table>
+- 🚀 Building microservices with **Docker + Kafka + Flask**  
+- 🧠 Exploring **asynchronous data pipelines & streaming systems**  
+- 📦 Enhancing **system design & observability**
 
 ---
+
+## 📫 Let's Connect  
+
+💼 [LinkedIn](https://www.linkedin.com/in/shyama-tripathi-227611250/)  
+📧 [shyamatripathi101@gmail.com](mailto:shyamatripathi101@gmail.com)  
+💻 [GitHub](https://github.com/shyamatripathi)
+
+---
+
+<div align="center">
+
+✨ *Building backend systems that scale • Python enthusiast • API crafter* ✨  
+
+</div>
 
