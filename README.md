@@ -7,7 +7,6 @@
 ---
 
 💻 **Python Developer | Machine Learning Enthusiast**  
-[![An image of @shyamatripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shyamatripathi)](https://holopin.io/@shyamatripathi)
 🚀 Building with **Django, FastAPI, and AI-powered solutions**
 
 ---
