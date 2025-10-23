@@ -34,8 +34,6 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 ![GenAI](https://img.shields.io/badge/Generative%20AI-7A57D1?style=for-the-badge&logo=openai&logoColor=white)
 
-
-
 ### ⚙️ Tools & Platforms  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
@@ -58,5 +56,18 @@
 ---
 
 ## 📊 GitHub Stats  
+
 ![Shyama's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shyamatripathi&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamatripathi&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shyamatripathi&layout=compact&theme=radical)  
+
+[![An image of @shyamatripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shyamatripathi)](https://holopin.io/@shyamatripathi)
+
+---
+
+## 🏆 Hacktoberfest 2025 Badge  
+
+![Hacktoberfest 2025: Level 0 Registered](https://raw.githubusercontent.com/shyamatripathi/shyamatripathi/main/126a5c8f-90b3-4c98-bdd3-e211756d94b4.png)  
+
+*Proud participant of Hacktoberfest 2025 🎉*
+
+---
