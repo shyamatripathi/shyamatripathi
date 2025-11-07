@@ -34,7 +34,6 @@
 ![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 
 ### 🚀 **What I Build**
 ![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B)
