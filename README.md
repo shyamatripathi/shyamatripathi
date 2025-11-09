@@ -18,7 +18,6 @@
 ### 🐍 **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?logo=django&logoColor=white)
 
