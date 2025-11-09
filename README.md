@@ -8,28 +8,28 @@
 
 ## 💻 Backend Developer | Python • APIs • Scalable Systems  
 
-✨ **Crafting robust backend architectures using Python, FastAPI, Flask, and Django**  
-⚙️ Passionate about **distributed systems**, **asynchronous APIs**, and **microservice orchestration**  
+ **Crafting robust backend architectures using Python, FastAPI, Flask, and Django**  
+ Passionate about **distributed systems**, **asynchronous APIs**, and **microservice orchestration**  
 
 ---
 
 ## 🛠️ Tech Stack  
 
-### 🐍 **Languages & Frameworks**
+###  **Languages & Frameworks**
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-3776AB?logo=java&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 ![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?logo=django&logoColor=white)
 
-### 🗄️ **Databases & Messaging**
+###  **Databases & Messaging**
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
 ![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy)
 
-### ☁️ **Tools & Infrastructure**
+###  **Tools & Infrastructure**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
@@ -46,7 +46,7 @@
 
 ## 🌟 Featured Projects  
 
-### 🧩 [Image-Generator-API](https://github.com/shyamatripathi/Image-Generator-API)  
+###  [Image-Generator-API](https://github.com/shyamatripathi/Image-Generator-API)  
 **FastAPI microservice for AI image generation**  
 `FastAPI` `Async` `Stable Diffusion` `Docker`  
 → Handles 50+ concurrent image requests asynchronously  
@@ -54,7 +54,7 @@
 
 ---
 
-### 💳 [Credit Predictor](https://github.com/shyamatripathi/Credit_Predictor)  
+###  [Credit Predictor](https://github.com/shyamatripathi/Credit_Predictor)  
 **Django app with machine learning integration**  
 `Django` `Scikit-learn` `PostgreSQL`  
 → Predictive analytics + automated PDF report generation  
@@ -62,7 +62,7 @@
 
 ---
 
-### 🤖 [Tel-Bot](https://github.com/shyamatripathi/Tel-Bot)  
+###  [Tel-Bot](https://github.com/shyamatripathi/Tel-Bot)  
 **Task automation bot with Django & Redis**  
 `Django REST` `Celery` `Redis`  
 → Background job handling + JWT authentication  
@@ -70,7 +70,7 @@
 
 ---
 
-### ⚖️ [LegalBot](https://github.com/shyamatripathi/LegalBot)  
+###  [LegalBot](https://github.com/shyamatripathi/LegalBot)  
 **AI legal assistant with semantic search**  
 `FastAPI` `NLP` `Sentence Transformers` `FAISS`  
 → Semantic similarity for legal text queries  
@@ -104,17 +104,17 @@
 
 ## 🎯 Current Focus  
 
-- 🚀 Building microservices with **Docker + Kafka + Flask**  
-- 🧠 Exploring **asynchronous data pipelines & streaming systems**  
-- 📦 Enhancing **system design & observability**
+-  Building microservices with **Docker + Kafka + Flask**  
+-  Exploring **asynchronous data pipelines & streaming systems**  
+-  Enhancing **system design & observability**
 
 ---
 
 ## 📫 Let's Connect  
 
-💼 [LinkedIn](https://www.linkedin.com/in/shyama-tripathi-227611250/)  
-📧 [shyamatripathi101@gmail.com](mailto:shyamatripathi101@gmail.com)  
-💻 [GitHub](https://github.com/shyamatripathi)
+ [LinkedIn](https://www.linkedin.com/in/shyama-tripathi-227611250/)  
+ [shyamatripathi101@gmail.com](mailto:shyamatripathi101@gmail.com)  
+ [GitHub](https://github.com/shyamatripathi)
 
 ---
 
