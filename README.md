@@ -44,40 +44,6 @@
 
 ---
 
-## 🌟 Featured Projects  
-
-###  [Image-Generator-API](https://github.com/shyamatripathi/Image-Generator-API)  
-**FastAPI microservice for AI image generation**  
-`FastAPI` `Async` `Stable Diffusion` `Docker`  
-→ Handles 50+ concurrent image requests asynchronously  
-→ Includes validation, rate limiting, monitoring  
-
----
-
-###  [Credit Predictor](https://github.com/shyamatripathi/Credit_Predictor)  
-**Django app with machine learning integration**  
-`Django` `Scikit-learn` `PostgreSQL`  
-→ Predictive analytics + automated PDF report generation  
-→ RESTful architecture with production-grade structure  
-
----
-
-###  [Tel-Bot](https://github.com/shyamatripathi/Tel-Bot)  
-**Task automation bot with Django & Redis**  
-`Django REST` `Celery` `Redis`  
-→ Background job handling + JWT authentication  
-→ Modular API design and async task pipelines  
-
----
-
-###  [LegalBot](https://github.com/shyamatripathi/LegalBot)  
-**AI legal assistant with semantic search**  
-`FastAPI` `NLP` `Sentence Transformers` `FAISS`  
-→ Semantic similarity for legal text queries  
-→ Optimized vector indexing for faster retrieval  
-
----
-
 ## 🏆 Highlights  
 
 <div align="center">
