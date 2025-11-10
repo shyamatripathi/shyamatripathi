@@ -35,13 +35,6 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
 
-### 🚀 **What I Build**
-![REST APIs](https://img.shields.io/badge/-REST%20APIs-02569B)
-![Microservices](https://img.shields.io/badge/-Microservices-1890D1)
-![Async Systems](https://img.shields.io/badge/-Async%20Systems-7A57D1)
-![Streaming Pipelines](https://img.shields.io/badge/-Streaming%20Pipelines-FF9800)
-![ML Systems](https://img.shields.io/badge/-ML%20Systems-102230)
-
 ---
 
 ## 🏆 Highlights  
@@ -65,22 +58,8 @@
 ![Streak](https://streak-stats.demolab.com?user=shyamatripathi&theme=tokyonight&hide_border=true)
 
 </div>
-
 ---
 
-## 🎯 Current Focus  
-
--  Building microservices with **Docker + Kafka + Flask**  
--  Exploring **asynchronous data pipelines & streaming systems**  
--  Enhancing **system design & observability**
-
----
-
-## 📫 Let's Connect  
-
- [LinkedIn](https://www.linkedin.com/in/shyama-tripathi-227611250/)  
- [shyamatripathi101@gmail.com](mailto:shyamatripathi101@gmail.com)  
- [GitHub](https://github.com/shyamatripathi)
 
 ---
 
