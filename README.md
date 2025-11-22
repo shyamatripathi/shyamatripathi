@@ -44,7 +44,7 @@
 [![Holopin Badges](https://holopin.me/shyamatripathi)](https://holopin.io/@shyamatripathi)  
   
 <img src="https://github.com/shyamatripathi/shyamatripathi/blob/main/lvl0-alien.webp" alt="Hacktoberfest 2025 Badge" width="180" height="auto" />
-<img src="https://github.com/shyamatripathi/shyamatripathi/blob/main/lvl0-alien.webp" alt="Hacktoberfest 2025 Badge" width="180" height="auto" />
+<img src="https://github.com/shyamatripathi/shyamatripathi/blob/main/holopin_space" alt="Hacktoberfest 2025 Badge" width="180" height="auto" />
 <img src="https://github.com/shyamatripathi/shyamatripathi/blob/main/lvl0-alien.webp" alt="Hacktoberfest 2025 Badge" width="180" height="auto" />
 
 </div>
