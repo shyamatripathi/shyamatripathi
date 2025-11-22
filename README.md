@@ -6,34 +6,57 @@
 
 ---
 
-## 💻 Backend Developer | Python • APIs • Scalable Systems  
+## 🚀 Tech Expertise  
 
- **Crafting robust backend architectures using Python, FastAPI, Flask, and Django**  
- Passionate about **distributed systems**, **asynchronous APIs**, and **microservice orchestration**  
+### 🧩 Programming & Core Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%20Language-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+  <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-5C4EE6?style=for-the-badge&logo=codeigniter&logoColor=white" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Frameworks & Backend Development
+<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django%20REST%20Framework-a51b0b?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Async%20Python-306998?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-FF5722?style=for-the-badge&logo=microgenetic&logoColor=white" />
+</p>
 
-###  **Languages & Frameworks**
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-3776AB?logo=java&logoColor=white)
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
-![Django REST](https://img.shields.io/badge/-Django%20REST-ff1709?logo=django&logoColor=white)
+---
 
-###  **Databases & Messaging**
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
-![Kafka](https://img.shields.io/badge/-Kafka-231F20?logo=apache-kafka&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?logo=sqlalchemy)
+### 🧵 Databases & Storage
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white" />
+</p>
 
-###  **Tools & Infrastructure**
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Celery](https://img.shields.io/badge/-Celery-37814A?logo=celery&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black)
+---
+
+### ☁️ DevOps, Cloud & Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-000000?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/CI%2FCD-0A0A0A?style=for-the-badge&logo=azurepipelines&logoColor=white" />
+</p>
+
+---
+
+### 🤖 Machine Learning & AI
+<p align="left">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge&logo=transformers&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-4a90e2?style=for-the-badge&logo=semanticweb&logoColor=white" />
+  <img src="https://img.shields.io/badge/FAISS-00897B?style=for-the-badge&logo=vectorworks&logoColor=white" />
+</p>
 
 ---
 
@@ -41,8 +64,7 @@
 
 <div align="center">
   
-[![Holopin Badges](https://holopin.me/shyamatripathi)](https://holopin.io/@shyamatripathi)  
-  
+[![An image of @shyamatripathi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shyamatripathi)](https://holopin.io/@shyamatripathi)holopin.io/@shyamatripathiholopin.io/@shyamatripathi  
 <img src="https://github.com/shyamatripathi/shyamatripathi/blob/main/lvl0-alien.webp" alt="Hacktoberfest 2025 Badge" width="180" height="auto" />
 <img src="https://github.com/shyamatripathi/shyamatripathi/blob/main/holopin_space" alt="Hacktoberfest 2025 Badge" width="180" height="auto" />
 <img src="https://github.com/shyamatripathi/shyamatripathi/blob/main/holopin%22_space1" alt="Hacktoberfest 2025 Badge" width="180" height="auto" />
