@@ -2,15 +2,14 @@
   <img src="https://avatars.githubusercontent.com/shyamatripathi" width="120" style="border-radius: 50%;" />
   
   # Hi, I'm Shyama 👋
-  ### A pragmatic programmer from India 🇮🇳
+  ### A Pragmatic Programmer from India 🇮🇳
   
   <br/>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shyama-tripathi-227611250/)
   [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:shyamatripathi101@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/shyamatripathi)
-  [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white)](https://leetcode.com/)
-  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://kaggle.com/)
+  [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white)](https://www.kaggle.com/shyamatripathi)
 
 </div>
 
