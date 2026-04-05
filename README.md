@@ -2,7 +2,7 @@
   <img src="https://avatars.githubusercontent.com/shyamatripathi" width="120" style="border-radius: 50%;" />
   
   # Hi, I'm Shyama 👋
-  ### A Pragmatic Programmer from India 🇮🇳
+  ### A pragmatic programmer from India 🇮🇳
   
   <br/>
 
@@ -91,12 +91,7 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shyamatripathi&show_icons=true&theme=tokyonight&hide_border=true&hide_title=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shyamatripathi&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=shyamatripathi&theme=tokyonight&hide_border=true" width="60%" />
+  <img src="https://streak-stats.demolab.com?user=shyamatripathi&theme=tokyonight&hide_border=true" />
 </div>
 
 ---
